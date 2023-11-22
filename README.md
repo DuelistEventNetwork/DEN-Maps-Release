@@ -1,6 +1,7 @@
 # Elden Ring DEN Maps
 
 ## Installation
+_Game Version: ELDEN RING 1.10_
 
 1. **To install and play, simply double-click the "Play Mod.bat" script,** it will do all nessessary setup for you before launching the game.
 
