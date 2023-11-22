@@ -54,8 +54,22 @@ https://www.twitch.tv/duelisteventnetwork
 
 ## Credits
 * Kjell - Project organization, creator of most of the mod's maps & features
-* Jackk - Creator of 'Crumbling Island', '
+* Jackk - Creator of 'Crumbling Island', Crystal Lake, Eternal City Courtyard'
 * Cip - Creator of Map 'Snowy Outpost"
 * Amir - Did most of the tricky technical modding stuff :P
 * Big thanks to Halvard for creating and allowing use to adapt the install script and all the functionality behind it (It's all in powershell, which means you can read and edit it in anyway you like)
+* Translations
+- Chinese (Simplified) - yy.0w0.
+- Chinese (Traditional) - yy.0w0.
+- French - SkipToMyNash
+- German - Ondo
+- Italian - Tocco
+- Japanese - RaffOcean
+- Korean - PURRY KONG
+- Polish - Steelovsky
+- Portuguese - Brondagoat & The Marxist Comrade
+- Russian - Karandra
+- Spanish (Latin) - Rikiponcho, Beven, & Siri
+- Spanish (Spain) - Flakkah
+- Thai - XD King
 * Developers of Seamless Co-op and Mod-Engine respectively
