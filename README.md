@@ -3,7 +3,7 @@
 ## Installation
 _Game Version: ELDEN RING 1.10_
 
-1. **To install and play, simply double-click the "Play Mod.bat" script,** it will do all nessessary setup for you before launching the game.
+1. **To install and play, simply double-click the "Play Mod.bat" script,** it will do all necessary setup for you before launching the game.
 
 That's all you have to do. 
 Your original save and game will be untouched, and you can launch the vanilla game or seamless normally at any time.
