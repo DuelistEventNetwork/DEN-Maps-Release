@@ -11,7 +11,7 @@ Your original save and game will be untouched, and you can launch the vanilla ga
 The setup that this script **automatically** does for you includes:
 - Downloading and setting up it's dependencies: ModEngine and Seamless Co-op
 - If you don't already have a .den save, makes a copy of your current vanilla or seamless save file.
-- Prompts you to set a multiplayer pasword
+- Prompts you to set a multiplayer password
 - Launches the game through modengine w/ DEN Maps & Seamless Co-op
 
 ## Features
