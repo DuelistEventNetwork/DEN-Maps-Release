@@ -9,7 +9,7 @@ Your original save and game will be untouched, and you can launch the vanilla ga
 
 The setup that this script **automatically** does for you includes:
 
-- Checking for updates to the mod and applying them
+- Checking for updates to the mod and applying them (Versions 1.6.0 and later)
 - Downloading and setting up it's dependencies: ModEngine and Seamless Co-op
 - If you don't already have a .den save, makes a copy of your current vanilla or seamless save file, or a save file from a previous version of the mod.
 - Prompts you to set a multiplayer pasword
