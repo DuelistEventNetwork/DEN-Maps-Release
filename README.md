@@ -1,4 +1,4 @@
-# Elden Ring DEN Maps %denmaps_version%
+# Elden Ring DEN Maps
 
 ## Installation
 
