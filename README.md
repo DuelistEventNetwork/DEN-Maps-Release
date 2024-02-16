@@ -63,7 +63,7 @@ This is a mod created by the DEN (Duelist Event Network) team that allows Elden 
 - Kjell - Project organization, creator of most of the mod's maps & features
 - Jackk - Creator of 'Crumbling Island', 'Crystal Lake', 'Eternal City Courtyard', 'Grand Libray' and most of the 2v2 versions of each map
 - Amir - Did most of the tricky technical modding stuff :P
-- Axina - Significant improvements to the launcher including it's auto-updater functionality, as well as great improvements to our development toolset and environment
+- axd1x8a - Significant improvements to the launcher including it's auto-updater functionality, as well as great improvements to our development toolset and environment
 - Halvard - Creator of the mod's launcher, PSMmodInstaller (It's all in powershell, which means you can read and edit it in anyway you like)
 - Cip - Creator of Map 'Snowy Outpost'
 
