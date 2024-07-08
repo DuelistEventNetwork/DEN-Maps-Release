@@ -1,9 +1,5 @@
 # Elden Ring DEN Maps
 
-## NOTICE ON DLC UPDATE
-
-We do not yet have a DLC compatible version of the mod, so do not attempt to use this mod if you have updated past Elden Ring 1.10.1.
-
 ## Installation
 
 **To install and play, simply double-click the "Play Mod.bat" script,** it will do all nessessary setup for you before launching the game.
